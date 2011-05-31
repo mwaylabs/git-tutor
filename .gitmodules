@@ -1,0 +1,3 @@
+[submodule "sudbmodules/tmp"]
+	path = sudbmodules/tmp
+	url = https://github.com/mwaylabs/The-M-Project.git
